@@ -1,0 +1,36 @@
+{
+"name":"Emby图标库(圆)@baiitang", 
+"description":"在原作者Softlyx的基础上新增，图标按照服名或群名命名，按照A-Z排列，方便查找。可以在图标搜索框搜索图标名，缺少的图标可投稿。", 
+"icons":
+    [
+	{"name":"Emby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Emby.png"},
+	{"name":"Emby1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Emby1.png"},
+	{"name":"Embys", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/Embys.png"},
+	{"name":"Embys1", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/Embys1.png"},
+	{"name":"Embyks", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/Embyks.png"},
+	{"name":"Embyks1", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/Embyks1.png"},
+	{"name":"Jellyfin", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Jellyfin.png"},
+	{"name":"Plex", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Plex.png"},
+	{"name":"Plex1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Plex1.png"},
+	{"name":"Plex2", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/Plex2.png"},
+	{"name":"FeiniuOS", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/FeiniuOS.png"},
+	{"name":"Zox1", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/Zox1.png"},
+	{"name":"Zn存档服", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Zn.png"},
+	{"name":"起点站🎬", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Qidianzhan.png"},
+	{"name":"PiliPili", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/PiliPili.png"},
+	{"name":"Peach", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Peach.png"},
+	{"name":"月饼🥮", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Mooncake.png"},
+	{"name":"Misty", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Misty.png"},
+	{"name":"惊蛰", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Jingzhe.png"},
+	{"name":"比比🐝", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/BeBe.png"},
+    {"name":"Epub", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/emby/Epub.png"},
+    {"name":"Tiannanxiaozhu1", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/emby/Tiannanxiaozhu1.png"},
+    {"name":"Sntpemby1", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/Sntpemby1.png"},
+    {"name":"纸片人", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/ZhiPianRen.png"},
+    {"name":"Nya", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Nya.png"},
+    {"name":"Shrek", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/Shrek.png"},
+    {"name":"HoHai", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/HoHai.png"}
+
+	
+    ]
+}
