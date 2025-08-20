@@ -26,7 +26,9 @@
     {"name":"Epub", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/emby/Epub.png"},
     {"name":"Tiannanxiaozhu1", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/emby/Tiannanxiaozhu1.png"},
     {"name":"Sntpemby1", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/Sntpemby1.png"},
-    {"name":"纸片人", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/ZhiPianRen.png"},
+	{"name":"ZhiPianRen", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/emby/ZhiPianRen.png"},
+	{"name":"ZhiPianRen1", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/emby/ZhiPianRen1.png"},
+	{"name":"ZhiPianRen2", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/emby/ZhiPianRen2.png"},
     {"name":"Nya", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Nya.png"},
     {"name":"Shrek", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/Shrek.png"},
     {"name":"HoHai", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/HoHai.png"}
